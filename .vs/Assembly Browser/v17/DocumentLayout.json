@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A015F635-4685-4EAD-AAC3-7E9228D2D8E3}|Gui\\Gui.csproj|c:\\users\\artyom\\desktop\\projects\\assembly browser\\gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A015F635-4685-4EAD-AAC3-7E9228D2D8E3}|Gui\\Gui.csproj|solutionrelative:gui\\gui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A015F635-4685-4EAD-AAC3-7E9228D2D8E3}|Gui\\Gui.csproj|c:\\users\\artyom\\desktop\\projects\\assembly browser\\gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A015F635-4685-4EAD-AAC3-7E9228D2D8E3}|Gui\\Gui.csproj|solutionrelative:gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A015F635-4685-4EAD-AAC3-7E9228D2D8E3}|Gui\\Gui.csproj|c:\\users\\artyom\\desktop\\projects\\assembly browser\\gui\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A015F635-4685-4EAD-AAC3-7E9228D2D8E3}|Gui\\Gui.csproj|solutionrelative:gui\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76A4133-6C19-4E6C-8D36-F62AEF5DFC8B}|Core\\Core.csproj|c:\\users\\artyom\\desktop\\projects\\assembly browser\\core\\assemblyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76A4133-6C19-4E6C-8D36-F62AEF5DFC8B}|Core\\Core.csproj|solutionrelative:core\\assemblyutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A015F635-4685-4EAD-AAC3-7E9228D2D8E3}|Gui\\Gui.csproj|c:\\users\\artyom\\desktop\\projects\\assembly browser\\gui\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A015F635-4685-4EAD-AAC3-7E9228D2D8E3}|Gui\\Gui.csproj|solutionrelative:gui\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A015F635-4685-4EAD-AAC3-7E9228D2D8E3}|Gui\\Gui.csproj|c:\\users\\artyom\\desktop\\projects\\assembly browser\\gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A015F635-4685-4EAD-AAC3-7E9228D2D8E3}|Gui\\Gui.csproj|solutionrelative:gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C183A28B-D31E-457B-B9C6-D60D47042473}|Tests\\Tests.csproj|c:\\users\\artyom\\desktop\\projects\\assembly browser\\tests\\assemblybrowsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C183A28B-D31E-457B-B9C6-D60D47042473}|Tests\\Tests.csproj|solutionrelative:tests\\assemblybrowsertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76A4133-6C19-4E6C-8D36-F62AEF5DFC8B}|Core\\Core.csproj|c:\\users\\artyom\\desktop\\projects\\assembly browser\\core\\namespacenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76A4133-6C19-4E6C-8D36-F62AEF5DFC8B}|Core\\Core.csproj|solutionrelative:core\\namespacenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76A4133-6C19-4E6C-8D36-F62AEF5DFC8B}|Core\\Core.csproj|c:\\users\\artyom\\desktop\\projects\\assembly browser\\core\\assemblyloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76A4133-6C19-4E6C-8D36-F62AEF5DFC8B}|Core\\Core.csproj|solutionrelative:core\\assemblyloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A76A4133-6C19-4E6C-8D36-F62AEF5DFC8B}|Core\\Core.csproj|c:\\users\\artyom\\desktop\\projects\\assembly browser\\core\\typehierarchy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A76A4133-6C19-4E6C-8D36-F62AEF5DFC8B}|Core\\Core.csproj|solutionrelative:core\\typehierarchy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Gui\\ViewModel.cs",
+              "RelativeDocumentMoniker": "Gui\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Gui\\ViewModel.cs",
+              "RelativeToolTip": "Gui\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:37:00.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Gui\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Gui\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Gui\\RelayCommand.cs",
+              "RelativeToolTip": "Gui\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:46:13.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Core\\AssemblyUtils.cs",
+              "RelativeDocumentMoniker": "Core\\AssemblyUtils.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Core\\AssemblyUtils.cs",
+              "RelativeToolTip": "Core\\AssemblyUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:46:48.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TypeHierarchy.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Core\\TypeHierarchy.cs",
+              "RelativeDocumentMoniker": "Core\\TypeHierarchy.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Core\\TypeHierarchy.cs",
+              "RelativeToolTip": "Core\\TypeHierarchy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:38:36.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gui.csproj",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Gui\\Gui.csproj",
+              "RelativeDocumentMoniker": "Gui\\Gui.csproj",
+              "ToolTip": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Gui\\Gui.csproj",
+              "RelativeToolTip": "Gui\\Gui.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-02T18:38:31.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Gui\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Gui\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Gui\\MainWindow.xaml",
+              "RelativeToolTip": "Gui\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T18:30:10.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Gui\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Gui\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Gui\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Gui\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:30:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyBrowserTests.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Tests\\AssemblyBrowserTests.cs",
+              "RelativeDocumentMoniker": "Tests\\AssemblyBrowserTests.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Tests\\AssemblyBrowserTests.cs",
+              "RelativeToolTip": "Tests\\AssemblyBrowserTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:42:27.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NamespaceNode.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Core\\NamespaceNode.cs",
+              "RelativeDocumentMoniker": "Core\\NamespaceNode.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Core\\NamespaceNode.cs",
+              "RelativeToolTip": "Core\\NamespaceNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:42:25.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Core\\AssemblyLoader.cs",
+              "RelativeDocumentMoniker": "Core\\AssemblyLoader.cs",
+              "ToolTip": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Core\\AssemblyLoader.cs",
+              "RelativeToolTip": "Core\\AssemblyLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T17:42:22.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

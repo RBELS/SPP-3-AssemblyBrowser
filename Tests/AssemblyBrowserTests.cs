@@ -7,7 +7,7 @@ public class Tests
     [Test]
     public void GetTypeHierarchyTest()
     {
-        var hierarchy = AssemblyLoader.GetTypeHierarchy(@"/Users/artyom/Documents/study/poit/6sem/spp/Assembly Browser/Faker.dll");
+        var hierarchy = AssemblyLoader.GetTypeHierarchy(@"C:\Users\Artyom\Desktop\projects\Assembly Browser\Faker.dll");
         var source = hierarchy.GetSource();
         
         Assert.Multiple(() =>

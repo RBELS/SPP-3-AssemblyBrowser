@@ -3974,32 +3974,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/artyom/.nuget/packages/": {}
+    "C:\\Users\\Artyom\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/artyom/Documents/study/poit/6sem/spp/Assembly Browser/Tests/Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "/Users/artyom/Documents/study/poit/6sem/spp/Assembly Browser/Tests/Tests.csproj",
-      "packagesPath": "/Users/artyom/.nuget/packages/",
-      "outputPath": "/Users/artyom/Documents/study/poit/6sem/spp/Assembly Browser/Tests/obj/",
+      "projectPath": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Tests\\Tests.csproj",
+      "packagesPath": "C:\\Users\\Artyom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/artyom/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Artyom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/artyom/Documents/study/poit/6sem/spp/Assembly Browser/Core/Core.csproj": {
-              "projectPath": "/Users/artyom/Documents/study/poit/6sem/spp/Assembly Browser/Core/Core.csproj"
+            "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Artyom\\Desktop\\projects\\Assembly Browser\\Core\\Core.csproj"
             }
           }
         }
@@ -4008,6 +4015,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4051,7 +4063,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
